@@ -1,0 +1,19 @@
+{
+  "name": "@tapanbavaliya/themify_icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapanbavaliya/themify_icons.git"
+  },
+  "author": "tapan bavaliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapanbavaliya/themify_icons/issues"
+  },
+  "homepage": "https://github.com/tapanbavaliya/themify_icons#readme"
+}
